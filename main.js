@@ -1,6 +1,7 @@
 const Finn = require('./data')
 const denis = require('./data2')
 const result = require('./SingUp')
+const cowsay = require("cowsay")
 
 
 
@@ -21,5 +22,11 @@ console.log(result("Mohammad"));
 console.log(result("KIM"));
 console.log(result("RORO"));
 
+
+console.log(cowsay.say({
+	text : "I'm a suuper",
+	e : "..",
+	T : "L "
+}));
 
 

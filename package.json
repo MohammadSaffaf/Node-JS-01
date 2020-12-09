@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MohammadSaffaf/Node-JS-01/issues"
   },
-  "homepage": "https://github.com/MohammadSaffaf/Node-JS-01#readme"
+  "homepage": "https://github.com/MohammadSaffaf/Node-JS-01#readme",
+  "devDependencies": {
+    "cowsay": "^1.4.0"
+  }
 }
