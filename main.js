@@ -16,9 +16,10 @@ const result = require('./SingUp')
 // console.log(denis);
 // console.log(denis.francis);
 // denis.raquel()
-console.log(result);
+// console.log(result);
 console.log(result("Mohammad"));
 console.log(result("KIM"));
+console.log(result("RORO"));
 
 
 
